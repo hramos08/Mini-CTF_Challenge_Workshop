@@ -1,0 +1,12 @@
+{
+  "/AboutUs/page": "/AboutUs",
+  "/Home/page": "/Home",
+  "/News/page": "/News",
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/admin-panel/page": "/admin-panel",
+  "/dashboard/page": "/dashboard",
+  "/login/page": "/login",
+  "/page": "/",
+  "/register/page": "/register"
+}
